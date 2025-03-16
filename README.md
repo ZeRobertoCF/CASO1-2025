@@ -1,22 +1,22 @@
 **DASHBOARD CON ANIMACIONES**
 
-link: http://127.0.0.1:5500/index.html
+link: [http://127.0.0.1:5500/index.html](https://zerobertocf.github.io/CASO1-2025/)
 
 **Descripción**
-Este proyecto consiste en un Dashboard interactivo que permite visualizar diversos datos de manera visualmente atractiva. El dashboard incluye animaciones dinámicas para mejorar la experiencia de usuario, proporcionando una interfaz fluida y moderna..
+Este proyecto consiste en un Dashboard interactivo que permite visualizar diversos datos de manera visualmente atractiva. El dashboard incluye animaciones dinámicas para mejorar la experiencia de usuario, proporcionando una interfaz fluida y moderna..<br><br>
 
 **Características**
-Interfaz interactiva: Los usuarios pueden interactuar con los gráficos y tablas para ver los datos de manera más detallada.
-Animaciones: Transiciones y efectos visuales que mejoran la experiencia de navegación, incluyendo animaciones de carga, transiciones entre pantallas y más.
-Componentes personalizados: El Dashboard incluye varios componentes como gráficos de barras, líneas, tablas y menús dinámicos.
-Responsividad: La responsividad todavia esta en proceso.
+Interfaz interactiva: Los usuarios pueden interactuar con los gráficos y tablas para ver los datos de manera más detallada.<br>
+Animaciones: Transiciones y efectos visuales que mejoran la experiencia de navegación, incluyendo animaciones de carga, transiciones entre pantallas y más.<br>
+Componentes personalizados: El Dashboard incluye varios componentes como gráficos de barras, líneas, tablas y menús dinámicos.<br>
+Responsividad: La responsividad todavia esta en proceso.<br>
+<br>
 **Tecnologías Utilizadas**
-Este proyecto utiliza las siguientes tecnologías:
-
-HTML5: Estructura del contenido del Dashboard.
-CSS3: Estilos y diseño responsivo, con uso de flexbox y grid.
-JavaScript: Para la interactividad y las animaciones.
-Librerías de animación: AOS (Animate on Scroll) para animaciones al hacer scroll, y otras librerías de animación.
+Este proyecto utiliza las siguientes tecnologías:<br>
+HTML5: Estructura del contenido del Dashboard.<br>
+CSS3: Estilos y diseño responsivo, con uso de flexbox y grid.<br>
+JavaScript: Para la interactividad y las animaciones.<br>
+Librerías de animación: AOS (Animate on Scroll) para animaciones al hacer scroll, y otras librerías de animación.<br>
 
 
 
